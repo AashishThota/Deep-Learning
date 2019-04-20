@@ -1,6 +1,8 @@
+from keras import Sequential
 from keras.datasets import mnist
 import numpy as np
 import matplotlib
+
 matplotlib.use("TkAgg")
 from matplotlib import pyplot as plt
 
